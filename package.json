@@ -1,0 +1,23 @@
+{
+  "name": "github-projects",
+  "version": "1.0.0",
+  "description": "A module that makes it easy to access Github projects data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eenewbsauce/github-projects.git"
+  },
+  "keywords": [
+    "github",
+    "projects"
+  ],
+  "author": "eenewbsauce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eenewbsauce/github-projects/issues"
+  },
+  "homepage": "https://github.com/eenewbsauce/github-projects#readme"
+}
